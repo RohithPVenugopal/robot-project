@@ -1,9 +1,9 @@
-#Robot Project MARK 1
+# Robot Project MARK 1
 
-##Sensors Used
+## Sensors Used
 
-###ultrasonic sensor
-###LIDAR
-###MPU
-###IR Sensor
-###PIR
+### ultrasonic sensor
+### LIDAR
+### MPU
+### IR Sensor
+### PIR
